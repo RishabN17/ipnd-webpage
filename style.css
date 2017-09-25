@@ -1,0 +1,19 @@
+.main {
+background-color: lightcoral;
+    
+}
+.heading{
+    background-color: cornsilk;
+    text-decoration-style: dotted
+}
+.content
+{
+    text-align: center;
+    text-decoration-style: wavy;
+    text-decoration: underline;
+}
+.another{
+    text-align: center;
+    text-decoration-style: double;
+    text-decoration: inherit;
+}
